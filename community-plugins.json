@@ -33395,5 +33395,12 @@
     "author": "Latazadehomero",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Create your memory palaces in 3D",
     "repo": "latazadehomero/memory-palace"
+  },
+  {
+    "id": "dinox-sync",
+    "name": "Dinox Sync",
+    "author": "Shanks",
+    "description": "Synchronize notes between Dinox and your vault.",
+    "repo": "ryzencool/dinox-sync"
   }
 ]
